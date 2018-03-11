@@ -4,7 +4,7 @@
 ## Requirements
 Before **Odin Eye** usage, you must have installed Python >= 3.5.X and the requirements:
 
-* Python3.5.X or later
+* Python 3.5.X or later
 * Pip3
   * Beautifulsoup4
   * Requests
@@ -19,7 +19,7 @@ The requirements can be installed with pip:
 
 Below, a usage example would be the next one when you type `python3 odin-eye.py <target.domain>`:
 ```
-	python3 odin-eye.py euroatlantic.pt
+    python3 odin-eye.py euroatlantic.pt
 ```
 
 The expected output is shown below:
